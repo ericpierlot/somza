@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/somza/static/css/main.0a04468d.chunk.css",
+    "main.js": "/somza/static/js/main.944ece5f.chunk.js",
+    "main.js.map": "/somza/static/js/main.944ece5f.chunk.js.map",
+    "runtime-main.js": "/somza/static/js/runtime-main.f0dda652.js",
+    "runtime-main.js.map": "/somza/static/js/runtime-main.f0dda652.js.map",
+    "static/js/2.6f14496b.chunk.js": "/somza/static/js/2.6f14496b.chunk.js",
+    "static/js/2.6f14496b.chunk.js.map": "/somza/static/js/2.6f14496b.chunk.js.map",
+    "index.html": "/somza/index.html",
+    "static/css/main.0a04468d.chunk.css.map": "/somza/static/css/main.0a04468d.chunk.css.map",
+    "static/js/2.6f14496b.chunk.js.LICENSE.txt": "/somza/static/js/2.6f14496b.chunk.js.LICENSE.txt",
+    "static/media/fish.7288db80.png": "/somza/static/media/fish.7288db80.png",
+    "static/media/licorne.4bd09297.png": "/somza/static/media/licorne.4bd09297.png",
+    "static/media/orange.e586118f.png": "/somza/static/media/orange.e586118f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0dda652.js",
+    "static/js/2.6f14496b.chunk.js",
+    "static/css/main.0a04468d.chunk.css",
+    "static/js/main.944ece5f.chunk.js"
+  ]
+}
